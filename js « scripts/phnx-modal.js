@@ -1,3 +1,6 @@
+// VERSION 1.0.4
+
+
 function showModal(div, blackoutcolor) {
     "use strict";
     if(blackoutcolor !== null){

@@ -1,3 +1,4 @@
+/* VERSION 1.0.4 */
 /* DEFAULTS */
 /* COMPONENTS */
 .stop-scroll {
@@ -87,21 +88,21 @@
   padding-bottom: 50px;
 }
 .modal-holder.twitter-blue .modal-wrap .modal h1 {
-  color: #00b0fd;
-  border-bottom: solid 1px #00b0fd;
+  color: #00B0FD;
+  border-bottom: solid 1px #00B0FD;
 }
 .modal-holder.twitter-blue .modal-wrap .modal .close {
-  color: #00b0fd;
+  color: #00B0FD;
 }
 .modal-holder.facebook-blue .modal-wrap .modal h1 {
-  color: #3b5b99;
-  border-bottom: solid 1px #3b5b99;
+  color: #3B5B99;
+  border-bottom: solid 1px #3B5B99;
 }
 .modal-holder.facebook-blue .modal-wrap .modal .close {
-  color: #3b5b99;
+  color: #3B5B99;
 }
 .modal-holder.red .modal-wrap .modal {
-  background-color: #9b3333;
+  background-color: #9B3333;
 }
 .modal-holder.red .modal-wrap .modal h1 {
   color: white;
